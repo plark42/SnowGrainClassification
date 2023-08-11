@@ -1,0 +1,6 @@
+*.npy
+*.tiff
+*.jpg
+*.csv
+*.dat
+.DS_Store
